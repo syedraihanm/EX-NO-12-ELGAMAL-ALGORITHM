@@ -25,7 +25,7 @@ To Implement ELGAMAL ALGORITHM
 
 ## Program:
 
-```
+```C
 #include <stdio.h> 
 #include <math.h> 
 long long int modExp(long long int base, long long int exp, long long int mod) { 
